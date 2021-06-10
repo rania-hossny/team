@@ -1,0 +1,18 @@
+@import url("http://cdn.syncfusion.com/ej2/material.css");
+
+.eventcalendar {
+  /* width: 83%; */
+  /* margin-left: auto; */
+  margin-top: 20px;
+}
+
+.fc-prev-button,
+.fc-next-button,
+.fc-today-button {
+  background-color: #216583 !important;
+  border: #216583 !important;
+}
+
+.fc-event-main-frame {
+  background-color: #216583 !important;
+}
